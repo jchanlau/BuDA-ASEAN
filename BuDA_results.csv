@@ -1,7 +1,3 @@
-This file reports the stress PDs for individal firms.,,,,,,,,,,,,,,,,,,,
-Unit of PD measure: Basis points.,,,,,,,,,,,,,,,,,,,
-Please cite the BuDA results in the following way:,,,,,,,,,,,,,,,,,,,
-"Duan, J.-C., W. Miao, J.A. Chan-Lau, and The Credit Research Initiative Team of the National University of Singapore, 2019. BuDA: A Bottom-Up Default Analysis Framework, version 3.2.0.",,,,,,,,,,,,,,,,,,,
 Company Name,IDBB,CRI Company ID,Exchange Country,Domicile Country,Bloomberg Industry Code,Bloomberg Industry,12-2019,1-2020,2-2020,3-2020,4-2020,5-2020,6-2020,7-2020,8-2020,9-2020,10-2020,11-2020,12-2020
 Lynas Corp Ltd,135883,5750,Australia,Malaysia,10002,Basic Materials,9.803005977405714,20.740211291484506,44.422613291306725,89.962188204666,43.03735118997004,16.577644710334237,6.868713398980195,3.645220724350704,2.183692837535274,1.3511400479556968,1.1593485157395624,1.0530427496434807,0.9830635557141236
 United Overseas Australia Ltd,178588,11035,Australia,Malaysia,10008,Financial,1.0812555431926791,1.3764251233444451,1.8632423841961256,2.5079582184400437,4.426186663313888,8.166512821660012,14.481889299474323,10.596962339340472,7.2253345973582315,5.135659164904265,4.406374094926958,3.8160710573816266,3.3070482460221697
